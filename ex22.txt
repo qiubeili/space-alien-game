@@ -1,0 +1,63 @@
+This is only a note document :) to document what I learned
+
+1. How to set up python on my computer and open it using terminal
+  - basic commands in terminal ("cd", "mkdir", "touch") to create python files
+
+2. How to print a line in python
+  - print("____")
+  - "\n line break"
+  - """______""" long string where you can put many lines of text and it prints it all
+
+3. How to do math in python
+  - "+ plus"
+  - "- minus"
+  - "/ divide"
+  - "* multiply"
+  - "% percent/fraction"
+  - "< less than"
+  - "> greater than"
+  - "<= less than or equal"
+  - ">= greater than or equal"
+
+4. Variables (much like variables in math :) )
+
+5. Formatting (see example 8 for example)
+  - basically put some inputs in a format that is defined
+
+6. Escape Sequences to put ', ", and \ without ending the print sequence (* are the ones I used so far)
+*  - \\ = backslash(\)
+*  - \' = single-quote(')
+*  - \" = double-quotes(")
+  - \a = ASCII bell (BEL)
+  - \b = ASCII backspace (BS)
+*  - \f = ASCII formfeed (FF)
+*  - \n = ASCII linefeed (LF)
+  - \N{name} = Character named name in Unicode database (Unicode only)
+  - \r = Carriage return (CR)
+  - \t = Horizontal tab (TAB)
+  - \uxxxx = Character with 16-bit hex value xxxx
+  - \Uxxxxxxxx = Character with 32-bit hex value xxxxxxxx
+  - \v = ASCII vertical tab (VT)
+  - \000 = Character with octal value 000
+  - \xhh = Chracter with hex value hh
+
+7. Inputs (you type in something for the program to manipulate depending on the code)
+
+8. Imports and Arguments
+  - Imports add features to script that already exists
+  - Argv holds "arguments" typed in terminal with command to execute code (see example 13 and so on)
+
+9. Files
+  - open
+  - close
+  - read
+  - readline (reads one line)
+  - truncate (empty file)
+  - write ('stuff') (writes stuff to file)
+  - seek(0) (moves read/write location to the beginning of file)
+
+10. Functions!
+  - allow you to make mini commands that can be executed over and over again easily
+  - see exercise 18 and so on for examples
+
+AND THIS CONCLUDES LESSON 0 - 21 :D
